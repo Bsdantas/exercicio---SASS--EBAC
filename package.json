@@ -1,0 +1,24 @@
+{
+  "name": "exercicio---sass--ebac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bsdantas/exercicio---SASS--EBAC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bsdantas/exercicio---SASS--EBAC/issues"
+  },
+  "homepage": "https://github.com/Bsdantas/exercicio---SASS--EBAC#readme",
+  "devDependencies": {
+    "sass": "^1.86.0"
+  }
+}
